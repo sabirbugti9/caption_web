@@ -1,0 +1,39 @@
+{
+    "pause": 250,
+    "speakers": [
+        {
+            "name": "John",
+            "phrases": [
+                {
+                    "words": "this is one phrase.",
+                    "time": 0
+                },
+                {
+                    "words": "now the second phrase.",
+                    "time": 4
+                },
+                {
+                    "words": "end with last phrase.",
+                    "time": 7
+                }
+            ]
+        },
+        {
+            "name": "Jack",
+            "phrases": [
+                {
+                    "words": "another speaker here.",
+                    "time": 2
+                },
+                {
+                    "words": "saying her second phrase.",
+                    "time": 5
+                },
+                {
+                    "words": "and eventually finishing up.",
+                    "time": 9
+                }
+            ]
+        }
+    ]
+}
